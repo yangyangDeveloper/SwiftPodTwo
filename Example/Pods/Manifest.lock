@@ -1,16 +1,23 @@
 PODS:
-  - SwiftPodTwo (0.1.0)
+  - OCPodOne (1.0.0)
+  - SwiftPodTwo (0.1.0):
+    - OCPodOne
 
 DEPENDENCIES:
   - SwiftPodTwo (from `../`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - OCPodOne
 
 EXTERNAL SOURCES:
   SwiftPodTwo:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SwiftPodTwo: 303214e4e2263f068e79384a21f8848588a39e6f
+  OCPodOne: 221f39282b42430d55995c085c317e5d94ea3044
+  SwiftPodTwo: 128c0c04ed156718a8a1628df44a1e92eff85226
 
-PODFILE CHECKSUM: c09302a73a4ee5e023aa4917520f46fa3d23dbd8
+PODFILE CHECKSUM: 4f26ef61f686d09bb2d3bb3ea0d7f5e535fc604b
 
 COCOAPODS: 1.11.3

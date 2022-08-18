@@ -10,7 +10,8 @@
 #endif
 #endif
 
+#import "Cat.h"
 
-FOUNDATION_EXPORT double Pods_SwiftPodTwo_TestsVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_SwiftPodTwo_TestsVersionString[];
+FOUNDATION_EXPORT double OCPodOneVersionNumber;
+FOUNDATION_EXPORT const unsigned char OCPodOneVersionString[];
 

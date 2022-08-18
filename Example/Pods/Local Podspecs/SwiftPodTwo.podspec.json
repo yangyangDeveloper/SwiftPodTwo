@@ -1,7 +1,7 @@
 {
   "name": "SwiftPodTwo",
   "version": "0.1.0",
-  "summary": "A short description of SwiftPodTwo.",
+  "summary": "Swift创建的Pod 依赖一个OC的Pod",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/yangyangDeveloper/SwiftPodTwo",
   "license": {
@@ -18,5 +18,10 @@
   "platforms": {
     "ios": "10.0"
   },
-  "source_files": "SwiftPodTwo/Classes/**/*"
+  "source_files": "SwiftPodTwo/Classes/**/*",
+  "dependencies": {
+    "OCPodOne": [
+
+    ]
+  }
 }

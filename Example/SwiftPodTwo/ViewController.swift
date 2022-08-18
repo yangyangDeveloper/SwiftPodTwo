@@ -7,11 +7,14 @@
 //
 
 import UIKit
+//import SwiftPodTwo
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        let pid = SwiftPig()
+        pid.run()
         // Do any additional setup after loading the view, typically from a nib.
     }
 

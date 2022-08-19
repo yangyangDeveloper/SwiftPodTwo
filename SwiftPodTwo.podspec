@@ -8,6 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SwiftPodTwo'
+  
   s.version          = '0.0.2'
   s.summary          = 'Swift创建的Pod 依赖一个OC的Pod'
 

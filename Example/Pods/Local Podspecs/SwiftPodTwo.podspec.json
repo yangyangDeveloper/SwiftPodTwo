@@ -1,6 +1,6 @@
 {
   "name": "SwiftPodTwo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Swift创建的Pod 依赖一个OC的Pod",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/yangyangDeveloper/SwiftPodTwo",
@@ -12,8 +12,8 @@
     "yangyangDeveloper": "zyydeveloper@163.com"
   },
   "source": {
-    "git": "https://github.com/yangyangDeveloper/SwiftPodTwo.git",
-    "tag": "0.0.1"
+    "git": "git@github.com:yangyangDeveloper/SwiftPodTwo.git",
+    "tag": "0.0.2"
   },
   "platforms": {
     "ios": "10.0"

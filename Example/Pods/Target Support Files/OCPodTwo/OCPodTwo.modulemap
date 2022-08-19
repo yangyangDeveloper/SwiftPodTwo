@@ -1,4 +1,4 @@
-module OCPodTwo {
+framework module OCPodTwo {
   umbrella header "OCPodTwo-umbrella.h"
 
   export *

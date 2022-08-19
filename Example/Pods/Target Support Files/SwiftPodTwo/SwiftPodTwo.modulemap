@@ -1,4 +1,4 @@
-module SwiftPodTwo {
+framework module SwiftPodTwo {
   umbrella header "SwiftPodTwo-umbrella.h"
 
   export *

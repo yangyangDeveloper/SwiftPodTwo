@@ -1,5 +1,5 @@
-#use_frameworks!
-use_modular_headers!
+use_frameworks!
+#use_modular_headers!
 source 'https://github.com/CocoaPods/Specs.git'
 source 'git@github.com:yangyangDeveloper/ZYYSpecs.git'
 platform :ios, '10.0'

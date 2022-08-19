@@ -1,6 +1,6 @@
 PODS:
   - OCPodTwo (0.3.0)
-  - SwiftPodTwo (0.0.2):
+  - SwiftPodTwo (0.0.3):
     - OCPodTwo
 
 DEPENDENCIES:
@@ -16,8 +16,8 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   OCPodTwo: 2d8a5fdf3b53834d2de366787dc0eb758597e2eb
-  SwiftPodTwo: 18135a13b72b4539071cfac284012adfd9af7278
+  SwiftPodTwo: 1256569fbd2de3a3fcf5ad8e1bc1e85325ec3089
 
-PODFILE CHECKSUM: de4f531bf46dc457ec8fc1889a948b93693eefb7
+PODFILE CHECKSUM: 333d0d33eacbbb9b66a92b5b428bbdd481abe258
 
 COCOAPODS: 1.11.3

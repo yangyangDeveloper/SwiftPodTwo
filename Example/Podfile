@@ -1,8 +1,10 @@
-use_frameworks!
+#use_frameworks!
+use_modular_headers!
 source 'https://github.com/CocoaPods/Specs.git'
-
+source 'git@github.com:yangyangDeveloper/ZYYSpecs.git'
 platform :ios, '10.0'
 
 target 'SwiftPodTwo_Example' do
-  pod 'SwiftPodTwo', :path => '../'
+  #pod 'SwiftPodTwo', :path => '../'
+  pod 'SwiftPodTwo',:podspec => '../SwiftPodTwo.podspec'
 end

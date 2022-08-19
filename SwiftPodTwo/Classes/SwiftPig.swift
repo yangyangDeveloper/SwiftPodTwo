@@ -7,12 +7,12 @@
 //
 
 import UIKit
-import OCPodOne
+import OCPodTwo
 
 @objc public class SwiftPig: NSObject {
     
     @objc public func run() {
-        let cat = Cat()
-        cat.sleep()
+        let pig = Pig()
+        pig.run()
     }
 }

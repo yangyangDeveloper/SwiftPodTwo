@@ -1,7 +1,7 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
-## OCPodOne
+## OCPodTwo
 
 Copyright (c) 2022 yangyangDeveloper <zyydeveloper@163.com>
 

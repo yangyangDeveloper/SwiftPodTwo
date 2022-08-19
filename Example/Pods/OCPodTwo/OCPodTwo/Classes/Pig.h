@@ -1,6 +1,6 @@
 //
-//  Cat.h
-//  OCPodOne_Example
+//  Pig.h
+//  OCPodTwo_Example
 //
 //  Created by zhangyangyang on 2022/8/18.
 //  Copyright © 2022 yangyangDeveloper. All rights reserved.
@@ -10,9 +10,8 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface Cat : NSObject
-- (void)sleep;
-
+@interface Pig : NSObject
+- (void)run;
 @end
 
 NS_ASSUME_NONNULL_END
